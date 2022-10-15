@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Done by Developer 2 specified\" && exit 1"
+    "test": "echo \"Developer 1 added this Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
